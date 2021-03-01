@@ -1,0 +1,11 @@
+.todo {
+    border: 1px solid #bbb;
+    color: #555;
+    padding: 10px 20px;
+    margin: 5px 0;
+    font-size: 20px;
+    background-color: green;
+}
+.todo-listtodo-list {
+    margin-bottom: 20px;
+}
